@@ -43,7 +43,18 @@ This project builds a Machine Learning regression model to predict house prices 
 ## 📊 Results
 - Successfully trained a regression model to predict house prices
 - Achieved good accuracy on test data
-- Model performance evaluated using standard regression metrics
+- Model performance evaluated using standard regression metrics:
+- heat map
+<img width="955" height="576" alt="image" src="https://github.com/user-attachments/assets/f7adc3a9-d791-4f31-9c42-72c4fd61f7ce" />
+histogram 
+<img width="1015" height="589" alt="image" src="https://github.com/user-attachments/assets/bd88ccf2-1f45-47ff-8c7e-f70053f8518b" />
+box plot
+<img width="1048" height="612" alt="image" src="https://github.com/user-attachments/assets/b10de559-3d36-487b-b29a-0261592c91a5" />
+series plot graph 
+<img width="1030" height="686" alt="image" src="https://github.com/user-attachments/assets/5354809c-27e3-43d9-b717-5c0d585b44e7" />
+
+
+
 
 ---
 #expected output
